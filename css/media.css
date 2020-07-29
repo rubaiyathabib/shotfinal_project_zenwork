@@ -1,0 +1,50 @@
+/*responsive media query*/
+
+  /*large device*/
+  
+ /* @media (max-width:1199px){
+
+  }*/
+
+
+  /*medium device*/
+
+ /* @media (max-width:991px){
+    .vh-800{
+      min-height:500px;
+    }
+    .service{
+      padding:20px 0;
+    }
+  }*/
+
+
+  /*small device*/
+
+/*  @media (max-width:767px){
+    .logo img{
+      width:150px;
+    }
+    .banner-content h1{
+      font-size:40px;
+    }
+    .banner-content p{
+      font-size:16px;
+    }
+    .banner-content h5{
+      font-size:18px;
+    }
+    .service{
+      padding:20px 0;
+    }
+    .secvice-section {
+      padding: 20px 0;
+    }
+  }*/
+
+
+  /*extrasmall device*/
+
+/*  @media (max-width:575px){
+
+  }*/*/
